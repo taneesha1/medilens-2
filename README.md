@@ -113,5 +113,5 @@ If you extract your `templates/` and `static/` folder as a frontend-only project
 ## 📸 Screenshots
 
 > *(Coming Soon)* Add visuals of your prescription scanner, map view, and report UI here.
-![Demo Video](video.mp4)
+![Demo Video](demo_video(1).mp4)
 ---
